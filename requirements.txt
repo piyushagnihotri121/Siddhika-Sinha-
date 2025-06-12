@@ -1,4 +1,6 @@
 streamlit
 numpy
+matplotlib
+scikit-image
 opencv-python
-pillow
+Pillow
